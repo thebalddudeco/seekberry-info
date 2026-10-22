@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#c6531b"/><rect x="62" y="62" width="388" height="388" rx="59" fill="#fff5e5"/>
+<path d="M127 143H385" stroke="#ffb35e" stroke-width="65" stroke-linecap="round"/>
+<g fill="#633922" font-family="Arial,sans-serif" font-weight="700" font-size="47" text-anchor="middle">
+<text x="127" y="160">S</text><text x="213" y="160">E</text><text x="299" y="160">E</text><text x="385" y="160">K</text>
+<text x="127" y="240">L</text><text x="213" y="240">A</text><text x="299" y="240">R</text><text x="385" y="240">T</text>
+<text x="127" y="320">W</text><text x="213" y="320">O</text><text x="299" y="320">R</text>
+<text x="127" y="400">P</text><text x="213" y="400">L</text><text x="299" y="400">A</text></g>
+<path d="M372 330C347 305 348 276 366 264C390 285 391 309 372 330Z" fill="#9c6024"/><path d="M373 329C381 298 406 288 427 295C419 321 399 335 373 329Z" fill="#d58b2a"/>
+<circle cx="350" cy="352" r="35" fill="#bd3e52"/><circle cx="401" cy="352" r="35" fill="#db5962"/><circle cx="376" cy="397" r="35" fill="#a92e47"/>
+<g fill="#fff5e5" opacity=".65"><ellipse cx="340" cy="341" rx="6" ry="9"/><ellipse cx="391" cy="341" rx="6" ry="9"/><ellipse cx="366" cy="386" rx="6" ry="9"/></g></svg>
